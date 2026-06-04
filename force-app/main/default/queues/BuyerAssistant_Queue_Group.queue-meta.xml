@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Buyer Assistant Queue Group</name>
+    <queueMembers>
+        <users>
+            <user>ssimpson@copado.com2026_01_6_14-1-39.demo</user>
+        </users>
+    </queueMembers>
+    <queueRoutingConfig>BuyerAssistantRoutingConfig</queueRoutingConfig>
+    <queueSobject>
+        <sobjectType>MessagingSession</sobjectType>
+    </queueSobject>
+</Queue>

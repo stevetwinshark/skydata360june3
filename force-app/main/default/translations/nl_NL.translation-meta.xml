@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Translations xmlns="http://soap.sforce.com/2006/04/metadata">
+    <quickActions>
+        <label><!-- Guest Community Case --></label>
+        <name>GuestCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Inventory Count --></label>
+        <name>Inventory_Count</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- LogACall --></label>
+        <name>LogACall</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewAccount --></label>
+        <name>NewAccount</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewCase --></label>
+        <name>NewCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Community Case --></label>
+        <name>NewCommunityCase</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewContact --></label>
+        <name>NewContact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewEvent --></label>
+        <name>NewEvent</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewGroup --></label>
+        <name>NewGroup</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewLead --></label>
+        <name>NewLead</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewNote --></label>
+        <name>NewNote</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewOpportunity --></label>
+        <name>NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- NewTask --></label>
+        <name>NewTask</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Case --></label>
+        <name>SDO_Community_NewCaseUnauthenticated</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Contact Support --></label>
+        <name>SDO_Community_New_Case</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Lead --></label>
+        <name>SDO_Community_PRM_Partner_Application</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Account --></label>
+        <name>SDO_New_Account</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Contact --></label>
+        <name>SDO_New_Contact</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Event --></label>
+        <name>SDO_New_Event</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Task --></label>
+        <name>SDO_New_Task</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Product Request --></label>
+        <name>SDO_Product_Request</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Vehicle Inspection --></label>
+        <name>SDO_SFS_Vehicle_Inspection</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Work Order --></label>
+        <name>SDO_SFS_Work_Order</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Opportunity --></label>
+        <name>SDO_Sales_NewOpportunity</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Email --></label>
+        <name>SDO_Send_Email</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Article --></label>
+        <name>SDO_Service_New_Article</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- New Case --></label>
+        <name>SDO_Service_New_Case</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Case_PreChat1 --></label>
+        <name>SDO_Service_Snapin_Case_PreChat1</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Case_PreChat2 --></label>
+        <name>SDO_Service_Snapin_Case_PreChat2</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Case_PreChat3 --></label>
+        <name>SDO_Service_Snapin_Case_PreChat3</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Case_PreChat4 --></label>
+        <name>SDO_Service_Snapin_Case_PreChat4</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Case_PreChat5 --></label>
+        <name>SDO_Service_Snapin_Case_PreChat5</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Case_PreChat6 --></label>
+        <name>SDO_Service_Snapin_Case_PreChat6</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Case_PreChat7 --></label>
+        <name>SDO_Service_Snapin_Case_PreChat7</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Contact_PreChat2 --></label>
+        <name>SDO_Service_Snapin_Contact_PreChat2</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Contact_PreChat3 --></label>
+        <name>SDO_Service_Snapin_Contact_PreChat3</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Contact_PreChat6 --></label>
+        <name>SDO_Service_Snapin_Contact_PreChat6</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SDO_Service_Snapin_Contact_PreChat9 --></label>
+        <name>SDO_Service_Snapin_Contact_PreChat9</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- SendEmail --></label>
+        <name>SendEmail</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Snapins_Case_PrechatQuickAction_08h3G0000008OY5_1662725958823 --></label>
+        <name>Snapins_Case_PrechatQuickAction_08h3G0000008OY5_1662725958823</name>
+    </quickActions>
+    <quickActions>
+        <label><!-- Snapins_Contact_PrechatQuickAction_08h3G0000008OY5_1662725958221 --></label>
+        <name>Snapins_Contact_PrechatQuickAction_08h3G0000008OY5_1662725958221</name>
+    </quickActions>
+</Translations>
